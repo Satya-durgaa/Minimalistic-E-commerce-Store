@@ -1,0 +1,1 @@
+This project is a minimalistic ecommerce website built with React as the front-end library, Vite.js as the build tool, and Tailwind CSS for styling. It makes use of the FakeStoreAPI to provide product data
